@@ -11,8 +11,8 @@ TFT_eSPI tft = TFT_eSPI();
 #include "Orbitron_Medium_16.h"
 #define grey 0x65DB
 
-const char* ssid     = "IGK202";
-const char* password = "18072019";
+const char* ssid     = "xxxxx";
+const char* password = "xxxxxxxx";
 
 WiFiUDP ntpUDP;
 NTPClient timeClient(ntpUDP);
